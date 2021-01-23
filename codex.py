@@ -1,4 +1,5 @@
 x=2
 y=4
-z=(x-y)
+a=6
+z=(x+y+a)
 print(z)
